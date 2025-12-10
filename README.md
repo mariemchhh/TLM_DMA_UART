@@ -2,7 +2,7 @@
 
 ## Description
 Ce projet est une simulation **SystemC/TLM 2.0** représentant le flux de données entre un **CPU**, une **DMA**, une **FIFO**, un **UART** et la **mémoire**.  
-L'objectif est de visualiser et d'analyser le transfert de données à travers ces modules à l'aide de traces **VCD** et d'animations Python.
+L'objectif est de visualiser et d'analyser le transfert de données à travers ces modules à l'aide de traces **VCD**.
 
 ---
 
