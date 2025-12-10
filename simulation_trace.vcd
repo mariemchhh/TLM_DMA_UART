@@ -1,0 +1,28 @@
+$date
+     Dec 10, 2025       18:33:17
+$end
+
+$version
+ SystemC 3.0.2-Accellera --- Nov 21 2025 21:23:17
+$end
+
+$timescale
+     1 ns
+$end
+
+$scope module SystemC $end
+$var wire    1  aaaaa  CPU_MemAccess       $end
+$var wire    1  aaaab  DMA_MemAccess       $end
+$upscope $end
+$enddefinitions  $end
+
+$comment
+All initial values are dumped below at time 0 sec = 0 timescale units.
+$end
+
+$dumpvars
+0aaaaa
+0aaaab
+$end
+
+#1000
