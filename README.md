@@ -14,8 +14,6 @@ L'objectif est de visualiser et d'analyser le transfert de données à travers c
 - `uart_tlm.cpp` : module UART.
 - `simulation_trace.vcd` : fichier de trace généré par la simulation.
 - `push_github.sh` : script pour pousser automatiquement le projet sur GitHub.
-- `tlm_flow.mp4` : animation du flux de données générée à partir des traces VCD.
-- `server.py` : script Python pour créer l'animation.
 
 ---
 
